@@ -1,0 +1,10 @@
+{
+  "name": "com.yeahrik.devtools",
+  "version": "1.0.0",
+  "displayName": "Yeahrik Dev Tools",
+  "description": "Custom dev tools for Unity Editor.",
+  "unity": "6000.0",
+  "author": {
+    "name": "yeahrik"
+  }
+}
